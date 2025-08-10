@@ -14,7 +14,7 @@ header {
 }
 
 .logo {
-    width: 220px;
+    width: 250px;
     display: block;
     margin: 0 auto;
 }
@@ -102,5 +102,6 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
 
 
