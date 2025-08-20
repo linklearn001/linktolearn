@@ -161,6 +161,23 @@ footer {
         transform: translateY(0);
     }
 }
+/* WhatsApp Button Style */
+.whatsapp-btn {
+  background-color: #25D366;   /* WhatsApp green */
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+  transition: background 0.3s ease;
+}
+
+.whatsapp-btn:hover {
+  background-color: #1ebe5d;  /* darker green on hover */
+}
+
 
 
 
